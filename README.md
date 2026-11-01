@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Samir 👋
 
-<!--
-**samir112-Elnab/samir112-Elnab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cybersecurity Enthusiast | Junior Web Penetration Tester
 
-Here are some ideas to get you started:
+I'm passionate about Cybersecurity, Web Application Security, and Ethical Hacking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently developing my skills in Web Penetration Testing and learning how to identify and understand web application vulnerabilities.
+
+### 🎯 About Me
+
+- 🔐 Interested in Web Application Security.
+- 🛡️ Learning OWASP Top 10 and Bug Bounty.
+- 🧪 Practicing on OWASP Juice Shop.
+- 💻 Learning Python and Programming Fundamentals.
+- 🚀 Always learning and improving my technical skills.
+
+### 🛠️ Tools & Technologies
+
+- Burp Suite
+- Kali Linux
+- Git & GitHub
+- Python
+- SQL
+- OWASP Juice Shop
+
+### 📚 Currently Learning
+
+- Web Application Penetration Testing
+- Authentication & Authorization
+- SQL Injection (SQLi)
+- Cross-Site Scripting (XSS)
+- Server-Side Request Forgery (SSRF)
+
+### 📫 Connect With Me
+
+- GitHub: https://github.com/samir112-Elnab
+
+---
+
+Learning every day. Building skills. Securing the web.
